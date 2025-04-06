@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# Environment/config files
+.env
+*.env
+
+# VS Code or PyCharm settings (optional)
+.vscode/
+.idea/
